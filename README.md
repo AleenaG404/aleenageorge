@@ -52,22 +52,6 @@ I'm an aspiring software developer with a strong interest in **Data Analytics, A
 
 ---
 
-## 🚀 Goals for 2026
-
-* Build high-quality real-world projects
-* Strengthen problem-solving skills through DSA
-* Contribute to Open Source
-* Learn modern web development technologies
-* Create a professional developer portfolio
-
----
-
-## 📂 Featured Projects
-
-Projects will be added here as I continue building and learning.
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/aleena-george-8433203a2
